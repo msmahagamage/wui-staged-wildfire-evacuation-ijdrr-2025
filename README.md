@@ -28,13 +28,6 @@ The `video/` folder contains a short demo that illustrates:
 
 - How staged evacuations are configured using predefined evacuation zones  
 - How traffic conditions evolve under staged vs. simultaneous evacuation  
-- Key outputs, such as evacuation time estimates (ETEs) and link-level traffic counts  
-
-Once uploaded, you can also watch the demo directly on GitHub:
-
-- `video/staged-wildfire-evacuation-demo.mp4`
-
-> **Note:** If GitHub does not preview the video in the browser, you can download it and play it locally.
 
 ---
 
@@ -45,7 +38,6 @@ Once uploaded, you can also watch the demo directly on GitHub:
 - `video/` – Folder containing the demonstration video  
   - `staged-wildfire-evacuation-demo.mp4` (to be uploaded by the author)
 
-Additional materials (e.g., slides, figures, or scripts) can be added later in their own folders (such as `slides/`, `figures/`, or `code/`).
 
 ---
 
