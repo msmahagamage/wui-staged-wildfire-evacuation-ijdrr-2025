@@ -1,14 +1,7 @@
-
----
-
-## 3. `CITATION.cff`
-
-Create a file named **`CITATION.cff`** in the root of the repo:
-
-```yaml
 cff-version: 1.2.0
-message: "If you use this work, please cite the associated journal article."
+message: "If you use this repository, please cite the associated journal article below."
 title: "A staged wildfire evacuation model for wildland-urban interface communities with transient populations"
+type: software
 authors:
   - family-names: "Maha Gamage"
     given-names: "Madusha"
@@ -27,11 +20,38 @@ authors:
   - family-names: "Li"
     given-names: "Yingru"
 doi: "10.1016/j.ijdrr.2025.105625"
-date-published: "2025-08-01"
-journal: "International Journal of Disaster Risk Reduction"
-identifiers:
-  - type: doi
-    value: "10.1016/j.ijdrr.2025.105625"
-type: article
+url: "https://github.com/msmahagamage/wui-staged-wildfire-evacuation-ijdrr-2025"  
 version: "1.0.0"
-url: "https://doi.org/10.1016/j.ijdrr.2025.105625"  where to creta this
+
+preferred-citation:
+  type: article
+  title: "A staged wildfire evacuation model for wildland-urban interface communities with transient populations"
+  journal: "International Journal of Disaster Risk Reduction"
+  volume: 126
+  pages: "105625"
+  year: 2025
+  doi: "10.1016/j.ijdrr.2025.105625"
+  url: "https://www.sciencedirect.com/science/article/pii/S2212420925004492"
+  issn: "2212-4209"
+  authors:
+    - family-names: "Maha Gamage"
+      given-names: "Madusha"
+    - family-names: "Li"
+      given-names: "Dapeng"
+    - family-names: "Shao"
+      given-names: "Wanyun"
+    - family-names: "Curtin"
+      given-names: "Kevin M."
+    - family-names: "Cohen"
+      given-names: "Sagy"
+    - family-names: "Liu"
+      given-names: "Jun"
+    - family-names: "Cao"
+      given-names: "Jiacheng"
+    - family-names: "Li"
+      given-names: "Yingru"
+  keywords:
+    - "Wildfire evacuation model"
+    - "Staged evacuation"
+    - "Wildfire evacuation zones"
+    - "Evacuation planning"
