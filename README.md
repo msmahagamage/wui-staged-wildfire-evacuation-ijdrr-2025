@@ -36,7 +36,7 @@ The `video/` folder contains a short demo that illustrates:
 - `README.md` – Description of the paper and supplementary materials  
 - `CITATION.cff` – Citation metadata for this publication  
 - `video/` – Folder containing the demonstration video  
-  - `staged-wildfire-evacuation-demo.mp4` (to be uploaded by the author)
+  - `Staged_Evacuation.mp4` (to be uploaded by the author)
 
 
 ---
